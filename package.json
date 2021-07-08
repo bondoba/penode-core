@@ -1,0 +1,12 @@
+{
+  "name": "penode-core",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {},
+  "author": "Bala Bondo",
+  "license": "GPL-2.0-only",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}

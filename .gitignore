@@ -1,0 +1,71 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Diagnostic
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+coverage
+*.lcov
+.nyc_output
+
+# Node, npm, build etc.
+build
+dist
+node_modules
+web_modules
+.npm
+
+# IDE files
+*.iml
+*.iws
+*.ipr
+.idea
+.settings
+.classpath
+.project
+.vscode/*
+*.code-workspace
+.history
+
+# Other files
+*.tsbuildinfo
+.eslintcache
+*.tgz
+.env
+.env.test
+.env.production
+.cache
+.nuxt
+.grunt
+.DS_Store
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
